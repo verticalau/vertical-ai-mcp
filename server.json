@@ -3,8 +3,9 @@
   "name": "au.com.verticalai/mcp",
   "title": "Vertical AI",
   "description": "Build, test and run voice and text agents for Australian contact centres.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://docs.verticalai.com.au/docs/platform/connect-your-assistant",
+  "repository": {"url": "https://github.com/verticalau/vertical-ai-mcp", "source": "github"},
   "icons": [{"src": "https://verticalai.com.au/logos/vertical-ai-stripe-icon.png", "mimeType": "image/png", "sizes": ["1024x1024"]}],
   "remotes": [{"type": "streamable-http", "url": "https://app.verticalai.com.au/api/mcp"}]
 }
